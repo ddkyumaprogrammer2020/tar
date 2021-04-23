@@ -7,6 +7,8 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+.idea/
+
 .Python
 build/
 develop-eggs/
@@ -26,6 +28,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -127,3 +130,43 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/
+Scraping/Scraping.py
+Scraping/__init__.py
+Scraping/admin.py
+Scraping/apps.py
+Scraping/migrations/0001_initial.py
+Scraping/migrations/0002_prices_unit.py
+Scraping/migrations/__init__.py
+Scraping/models.py
+Scraping/serializers.py
+Scraping/tasks.py
+Scraping/urls.py
+Scraping/utils.py
+Scraping/views.py
+celerybeat-schedule.bak
+celerybeat-schedule.dat
+celerybeat-schedule.dir
+django_jalali/__init__.py
+django_jalali/admin/__init__.py
+django_jalali/admin/filters.py
+django_jalali/admin/filterspecs.py
+django_jalali/admin/widgets.py
+django_jalali/db/__init__.py
+django_jalali/db/models.py
+django_jalali/fixtures/
+django_jalali/forms/__init__.py
+django_jalali/forms/widgets.py
+django_jalali/models.py
+django_jalali/static/
+django_jalali/templatetags/__init__.py
+django_jalali/templatetags/jformat.py
+manage.py
+requirements.txt
+tar/__init__.py
+tar/asgi.py
+tar/celery.py
+tar/settings.py
+tar/urls.py
+tar/wsgi.py
+templates/
